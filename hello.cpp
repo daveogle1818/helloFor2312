@@ -14,6 +14,7 @@ void Hello::getNameAndGreet() {
 }
 
 int main() {
+    // comments in main function
     Hello hello;
     hello.greet();
     hello.getNameAndGreet();
