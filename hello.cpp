@@ -6,6 +6,7 @@ void Hello::greet() {
 
 void Hello::getNameAndGreet() {
     // comments are always good  
+    // more comments are better
     std::string name;
     std::cout << "Enter your name: ";
     std::cin >> name;
