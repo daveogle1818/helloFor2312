@@ -5,6 +5,7 @@ void Hello::greet() {
 }
 
 void Hello::getNameAndGreet() {
+    // comments are always good  
     std::string name;
     std::cout << "Enter your name: ";
     std::cin >> name;
